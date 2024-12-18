@@ -1,4 +1,4 @@
-# wic-mis-research-utils
+# WIC MIS Research Utils
 
 General utilities for our research process
 
